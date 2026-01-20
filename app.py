@@ -37,7 +37,7 @@ st.markdown("""
         border-left: 5px solid #ff0000;
     }
     .legit-success {
-        background-color: #000000;
+        background-color: #40FF00;
         padding: 20px;
         border-radius: 10px;
         border-left: 5px solid #00aa00;
