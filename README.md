@@ -40,8 +40,6 @@ pip install streamlit
 streamlit run app.py
 ```
 
-> 🆘 **Error?** Baca file **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)**
-
 ---
 
 ##  HASIL ANALISIS DATA
